@@ -1,0 +1,3 @@
+git add .github/workflows/main.yml
+git commit -m "Add GitHub Actions workflow for build and release"
+git push origin main
